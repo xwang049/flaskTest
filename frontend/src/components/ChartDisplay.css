@@ -1,0 +1,10 @@
+.chart-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.chart-wrapper {
+  max-width: 700px;
+  margin: 20px;
+}

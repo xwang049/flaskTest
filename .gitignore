@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+.env
+
+# Flask related
+*.pyc
+*.pyo
+__pycache__/
+
+# Flask uploads folder
+uploads/
+
+# Node modules
+node_modules/
+
+# React build folder
+build/
+
+# Editor or IDE files
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
